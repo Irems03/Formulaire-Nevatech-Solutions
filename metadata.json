@@ -1,0 +1,6 @@
+{
+  "name": "Formulaire Nuvatech-Solutions",
+  "description": "Formulaire client dynamique et moderne pour l'agence Nuvatech-Solutions",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
