@@ -1,0 +1,12 @@
+# Netlify Configuration File
+# Professional configuration for Vite + React Single Page Application (SPA)
+
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+# Redirect all routes to index.html for React Router / client-side routing support
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
